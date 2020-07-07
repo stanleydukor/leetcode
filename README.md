@@ -1,3 +1,3 @@
-# Bloomberg Software Engineering Interview
+# Software Engineering Interview
 
-Solution to Bloomberg interview questions on Leetcode
+Solution to software engineering questions on Leetcode
